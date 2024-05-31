@@ -1,8 +1,8 @@
 import random
 import matplotlib.pyplot as plt
 
-pop_size = 200            # Tamanho da populacao, deve ser par
-n_gen = 2000                # Numero de geracoes
+pop_size = 20            # Tamanho da populacao, deve ser par
+n_gen = 20                # Numero de geracoes
 
 pc = 0.75                 # Probabilidade de recombinacao em percentagem
 pm = 0.0001                 # Probabilidade de mutacao em percentagem
